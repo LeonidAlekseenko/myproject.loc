@@ -3,7 +3,7 @@
     <title>Калькулятор</title>
 </head>
 <body>
-<form action="/calc/result.php">
+<form action="/elementary/calcentary/calc/result.php">
     <input type="text" name="x1">
 
     <select name="operation">

@@ -4,15 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b968cbae-cbf5-4bc4-9578-7dda1f9ce8f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extends/Lesson.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends/Post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/Cat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Human.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.php" afterDir="false" />
+    <list default="true" id="b968cbae-cbf5-4bc4-9578-7dda1f9ce8f4" name="Changes" comment="пример id">
+      <change afterPath="$PROJECT_DIR$/src/MyProject/Models/Articles/Article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyProject/Models/Users/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/asociative_array.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/array/asociative_array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authorization/UsersDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/authorization/UsersDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authorization/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/authorization/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authorization/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/authorization/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authorization/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/authorization/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc/calc.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/calc/calc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/calc/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc/result.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/calc/result.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookie/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/cookie/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookie/setCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/cookie/setCookies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extends/Lesson.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/extends/Lesson.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extends/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/extends/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extends/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/extends/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/functions/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/functions/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/get/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/get/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/Cat.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/oop/Cat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/bar_content.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/bar_content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/content_sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/content_sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/footer_content.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/footer_content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/header_content.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/header_content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_includ/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/page_includ/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/post/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/post/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/post/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_file/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/read_file/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_file/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/read_file/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorts/bubble_sort.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/sorts/bubble_sort.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlStart/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/sqlStart/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/A.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/static/A.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Human.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/static/Human.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementary/static/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +57,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,6 +91,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\myproject.loc\elementary" />
       <recent name="C:\OSPanel\domains\myproject.loc\get" />
     </key>
   </component>
@@ -90,11 +125,24 @@
       <workItem from="1674499517209" duration="803000" />
       <workItem from="1674591995198" duration="5200000" />
       <workItem from="1674685788561" duration="1372000" />
-      <workItem from="1675076146252" duration="8626000" />
+      <workItem from="1675076146252" duration="9101000" />
+      <workItem from="1675109663664" duration="2987000" />
     </task>
+    <task id="LOCAL-00001" summary="пример id">
+      <created>1675097011120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675097011120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="пример id" />
+    <option name="LAST_COMMIT_MESSAGE" value="пример id" />
   </component>
 </project>

@@ -3,7 +3,7 @@
     <title>Форма входа</title>
 </head>
 <body>
-<form action="/get/login.php" method="get">
+<form action="/elementary/getmentary/get/login.php" method="get">
     <label>
         Логин <input type="text" name="login">
     </label>

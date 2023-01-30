@@ -26,7 +26,7 @@ if (!empty($_POST)) {
 </span>
 <?php endif; ?>
 
-<form action="/authorization/login.php" method="post">
+<form action="/elementary/authorizationthorization/login.php" method="post">
     <label for="login">Имя пользователя: </label><input type="text" name="login" id="login">
     <br>
     <label for="password">Пароль: </label><input type="password" name="password" id="password">

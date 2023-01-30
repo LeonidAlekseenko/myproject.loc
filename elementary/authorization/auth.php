@@ -1,6 +1,6 @@
 <?php
 function checkAuth(string $login, string $password): bool {
-    $users = require __DIR__ . '/usersDB.php';
+    $users = require __DIR__ . '/UsersDB.php';
 
     foreach ($users as $user) {
         if ($user['login'] === $login
